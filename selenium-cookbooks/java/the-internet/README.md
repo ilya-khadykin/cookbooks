@@ -14,7 +14,7 @@ Checklist:
 * [ ] Dropdown
 * [ ] Dynamic Content
 * [ ] Dynamic Controls
-* [ ] Dynamic Loading
+* [ ] Dynamic Loading (example 1 is complete, example 2 is in progress)
 * [ ] Exit Intent
 * [ ] File Download
 * [ ] File Upload
